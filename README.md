@@ -1,3 +1,7 @@
+<div align="center">
+  <img src=".github/images/forgevine-banner.png" alt="Forgevine Banner" />
+</div>
+
 # Forgevine
 
 **Forging the future of Web3.**
